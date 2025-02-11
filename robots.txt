@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dazzlingstar81.github.io/starwars/sitemap.xml
